@@ -25,7 +25,6 @@
 </form>
 </div>
 
-
 <script type="text/javascript">
 function doSubmit(type) {
     if(type == "commons-fileupload") {
