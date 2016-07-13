@@ -33,6 +33,7 @@ function doSubmit(type) {
         $("#formFileUpload").submit();
     }
 }
+
 </script>
 </body>
 </html>
